@@ -1,0 +1,27 @@
+2025-06-15 21:58:00 Application started.
+2025-06-15 21:58:00 This is a test log message.
+[2025-06-15 22:09:25] Thread 2: Starting process...
+[2025-06-15 22:09:25] Thread 1: Starting process...
+[2025-06-15 22:09:25] Thread 1: Finished step 1
+[2025-06-15 22:09:25] Thread 2: Finished step 1
+[[2025-06-15 22:21:54]] [INFO] Main thread: Application started
+[[2025-06-15 22:21:54]] [INFO] Thread 1: Starting process...
+[[2025-06-15 22:21:54]] [INFO] Thread 2: Starting process...
+[[2025-06-15 22:21:54]] [INFO] Thread 1: Finished step 1
+[[2025-06-15 22:21:54]] [WARNING] Thread 2: Low disk warning
+[[2025-06-15 22:21:54]] [INFO] Thread 2: Finished step 1
+[[2025-06-15 22:21:54]] [INFO] Main thread: Application shutting down
+[[2025-07-06 12:28:34]] [INFO] Main thread: Application started
+[[2025-07-06 12:28:34]] [INFO] Thread 2: Starting process...
+[[2025-07-06 12:28:34]] [INFO] Thread 1: Starting process...
+[[2025-07-06 12:28:34]] [INFO] Thread 1: Finished step 1
+[[2025-07-06 12:28:34]] [WARNING] Thread 2: Low disk warning
+[[2025-07-06 12:28:34]] [INFO] Thread 2: Finished step 1
+[[2025-07-06 12:28:34]] [INFO] Main thread: Application shutting down
+[[2025-07-06 12:35:09]] [INFO] Main thread: Application started
+[[2025-07-06 12:35:09]] [INFO] Thread 1: Starting process...
+[[2025-07-06 12:35:09]] [INFO] Thread 2: Starting process...
+[[2025-07-06 12:35:09]] [INFO] Thread 1: Finished step 1
+[[2025-07-06 12:35:09]] [WARNING] Thread 2: Low disk warning
+[[2025-07-06 12:35:09]] [INFO] Thread 2: Finished step 1
+[[2025-07-06 12:35:09]] [INFO] Main thread: Application shutting down

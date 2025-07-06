@@ -1,0 +1,20 @@
+[2025-07-06 12:39:07] [WARNING] Disk space low
+[2025-07-06 12:39:07] [ERROR] Fatal error occurred
+[2025-07-06 12:39:07] [WARNING] Thread 2: Caution message
+[2025-07-06 12:39:07] [ERROR] Thread 1: Something went wrong
+[2025-07-06 12:42:48] [WARNING] Disk space low
+[2025-07-06 12:42:48] [ERROR] Fatal error occurred
+[2025-07-06 12:42:48] [WARNING] Thread 2: Caution message
+[2025-07-06 12:42:48] [ERROR] Thread 1: Something went wrong
+[2025-07-06 12:45:29] [WARNING] Disk space low
+[2025-07-06 12:45:29] [ERROR] Fatal error occurred
+[2025-07-06 12:45:29] [ERROR] Thread 1: Something went wrong
+[2025-07-06 12:45:29] [WARNING] Thread 2: Caution message
+[2025-07-06 12:49:51] [INFO] Main thread: Application started
+[2025-07-06 12:49:51] [WARNING] Disk space low
+[2025-07-06 12:49:51] [ERROR] Fatal error occurred
+[2025-07-06 12:49:51] [INFO] Thread 1: Startup
+[2025-07-06 12:49:51] [WARNING] Thread 2: Caution message
+[2025-07-06 12:49:51] [INFO] Thread 2: Done
+[2025-07-06 12:49:51] [ERROR] Thread 1: Something went wrong
+[2025-07-06 12:49:51] [INFO] Main thread: Done
